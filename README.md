@@ -7,7 +7,7 @@ Cyber Security Student
 I am a Cyber Security Student who craves knowledge and experience. I hope I can learn and gain as much knowledge and experience as I can to become a Great Cyber Security.
 
 * 🌍  I'm based in Skudai, Johor
-* 🖥️  See my portfolio at [MyPortfolio](http://haziq.tiiny.site)
+* 🖥️  See my portfolio at [MyPortfolio](http://127.0.0.1:5501/HaziqAmsyar.html)
 * ✉️  You can contact me at [muhamadhaziqamsyar@graduate.utm.my](mailto:muhamadhaziqamsyar@graduate.utm.my)
 * 🚀  I'm currently working on [News App in University](http://news-utm.000webhostapp.com)
 * 🧠  I'm learning Network and Computer Security
